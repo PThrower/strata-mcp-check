@@ -43,7 +43,8 @@ That's it. The action will:
 |---|---|
 | `total` | Total MCP servers scanned |
 | `critical` | Count of servers with critical risk |
-| `high` | Count of servers with high or medium risk (warnings) |
+| `high` | Count of servers with high risk |
+| `medium` | Count of servers with medium risk |
 | `passed` | Count of servers with low risk |
 | `unverifiable` | Count that could not be verified (local scripts, etc.) |
 
