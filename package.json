@@ -1,0 +1,13 @@
+{
+  "name": "strata-mcp-check",
+  "version": "1.0.0",
+  "description": "GitHub Action — verify MCP servers in your repo against Strata trust scores",
+  "private": true,
+  "license": "MIT",
+  "author": "Strata <support@strata.dev>",
+  "homepage": "https://usestrata.dev/docs/sdk#github-action",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PThrower/strata-mcp-check.git"
+  }
+}
